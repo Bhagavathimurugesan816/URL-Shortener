@@ -105,7 +105,7 @@ Dark-mode glassmorphism design with:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Bhagavathimurugesan816/URL-Shortener.git
-cd URL-Shortener
+cd url-shortener
 ```
 
 ### 2. Backend Setup
@@ -194,19 +194,19 @@ Visit `http://localhost:5173`
 ## 📸 Sample Output
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard page.png)
 
 ### Analytics Page
-![Analytics](screenshots/analytics.png)
+![Analytics](screenshots/Analytics page.png)
 
 ### Create URL Modal
-![Create URL](screenshots/create-url.png)
+![Create URL](screenshots/Create url.png)
 
 ### MongoDB - URLs Collection
-![DB URLs](screenshots/db-urls.png)
+![DB URLs](screenshots/MongoDB urls.png)
 
 ### MongoDB - Clicks Collection
-![DB Clicks](screenshots/db-clicks.png)
+![DB Clicks](screenshots/MongoDB clicks.png)
 
 ### Backend Logs
 ```
