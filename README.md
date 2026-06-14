@@ -202,11 +202,17 @@ Visit `http://localhost:5173`
 ### Create URL Modal
 ![Create URL](screenshots/Create url.png)
 
+### Sign In / Sign Up
+![Sign In or Sign Up](screenshots/Sign in or Sign up.png)
+
 ### MongoDB - URLs Collection
 ![DB URLs](screenshots/MongoDB urls.png)
 
 ### MongoDB - Clicks Collection
 ![DB Clicks](screenshots/MongoDB clicks.png)
+
+### MongoDB - Users Collection
+![DB Users](screenshots/MongoDB users.png)
 
 ### Backend Logs
 ```
