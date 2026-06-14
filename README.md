@@ -104,8 +104,8 @@ Dark-mode glassmorphism design with:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/url-shortener.git
-cd url-shortener
+git clone https://github.com/Bhagavathimurugesan816/URL-Shortener.git
+cd URL-Shortener
 ```
 
 ### 2. Backend Setup
