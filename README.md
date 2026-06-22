@@ -194,25 +194,25 @@ Visit `http://localhost:5173`
 ## 📸 Sample Output
 
 ### Dashboard
-![Dashboard](screenshots/Dashboard page.png)
+![Dashboard](screenshots/dashboard-page.png)
 
 ### Analytics Page
-![Analytics](screenshots/Analytics page.png)
+![Analytics](screenshots/analytics-page.png)
 
 ### Create URL Modal
-![Create URL](screenshots/Create url.png)
+![Create URL](screenshots/create-url.png)
 
 ### Sign In / Sign Up
-![Sign In or Sign Up](screenshots/Sign in or Sign up.png)
+![Sign In or Sign Up](screenshots/sign-in-or-sign-up.png)
 
 ### MongoDB - URLs Collection
-![DB URLs](screenshots/MongoDB urls.png)
+![DB URLs](screenshots/mongodb-urls.png)
 
 ### MongoDB - Clicks Collection
-![DB Clicks](screenshots/MongoDB clicks.png)
+![DB Clicks](screenshots/mongodb-clicks.png)
 
 ### MongoDB - Users Collection
-![DB Users](screenshots/MongoDB users.png)
+![DB Users](screenshots/mongodb-users.png)
 
 ### Backend Logs
 ```
